@@ -214,16 +214,16 @@ nav ul li a:hover {
     background-color: #FFB320;
     padding: 25px;
     margin: 0;
-    text-align: right;
+    text-align: center;
     color: #eee;
     font-size: 1.2em;
 }
 
 #latest-news-container {
-    background-color: #131313;
+   background-color: #e92159;
     position: relative;
-    flex-basis: 75%;
-    padding: 25px;
+    flex-basis: 138%;
+    /* padding: 25px; */
 }
 
 #latest-news-container .badge {
