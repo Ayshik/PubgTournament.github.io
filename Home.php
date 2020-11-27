@@ -28,7 +28,7 @@
                         <li><a href="#posts-comments">Contact</a></li>
                     </ul>
                 </nav>
-                <a href="#" id="login-register-button">Login</a>
+                <a href="logIn.html" id="login-register-button">Login</a>
             </div>
         </header>
 
@@ -46,12 +46,12 @@
                     <h5>Latest News</h5>
                     <div id="latest-news-container">
                         <div class="latest-news-item">
-                           
-							
-                            <div class="news"> 
+
+
+                            <div class="news">
 		 <marquee>
             <p style="line-height: 3;font-weight: 300; font-size: inherit;font-weight:bolder">
-           ay vai koi jan < basay jai vai < sonen ja koi apner valor jonnoi koi mind koiren na < kon ki koiben < apner bou amar polar loge tanki mare , bou re samlam amar polar kono vorsa nai < oder biya diye den vai ami saira dimu ay matro apnar mey er sathe biyer kotha pakapaki kore aslm xd<> 
+           ay vai koi jan < basay jai vai < sonen ja koi apner valor jonnoi koi mind koiren na < kon ki koiben < apner bou amar polar loge tanki mare , bou re samlam amar polar kono vorsa nai < oder biya diye den vai ami saira dimu ay matro apnar mey er sathe biyer kotha pakapaki kore aslm xd<>
           </p>
           </marquee>
 		  </div>
@@ -67,8 +67,8 @@
                         <span class="badge new">New</span>
                         <div class="contents">
                             <h4>New map</h4>
-                            
-                            
+
+
                         </div>
                     </div>
 
@@ -77,7 +77,7 @@
                         <span class="badge strategy">New</span>
                         <div class="contents">
                             <h4>New Gun</h4>
-                            
+
                         </div>
                     </div>
 
@@ -86,7 +86,7 @@
                         <span class="badge rpg">New</span>
                         <div class="contents">
                             <h4>New Carecter</h4>
-                            
+
                         </div>
                     </div>
 
@@ -95,7 +95,7 @@
                         <span class="badge racing">New</span>
                         <div class="contents">
                             <h4>New Vehicle</h4>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                         </div>
                         <div>
                             <h4>Assasin's Creed</h4>
-                            
+
                         </div>
                     </div>
 
@@ -192,7 +192,7 @@
                         </div>
                         <div>
                             <h4>Doom</h4>
-                            
+
                         </div>
                     </div>
 
@@ -203,7 +203,7 @@
                         </div>
                         <div>
                             <h4>Overwatch</h4>
-                            
+
                         </div>
                     </div>
 
@@ -214,7 +214,7 @@
                         </div>
                         <div>
                             <h4>GTA5</h4>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -228,7 +228,7 @@
                         <img class="footer-graphic" src="Storage/picture/nice2.png" />
                     </div>
 
-                   
+
 
                     <div class="posts-comments-box">
                         <h3>ADMINS</h3>
@@ -236,7 +236,7 @@
                             <img src="Storage/picture/Ayshik.jpg" />
                             <div>
                                 <p><span class="author">Ayshik Khan</span> <span>ID-</span>1234323455555</p>
-								 
+
                                 <h5>Ayshikmee@gmail.com</h5>
                             </div>
                         </div>
