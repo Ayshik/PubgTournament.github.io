@@ -38,6 +38,7 @@ p, label, strong {
     line-height: 2;
     font-size: 0.85em;
     font-weight: 300;
+
 }
 
 .flex {
@@ -211,7 +212,7 @@ nav ul li a:hover {
 
 #latest-news .flex h5 {
     flex-basis: 25%;
-    background-color: #FFB320;
+    background-color: #6D4C41;
     padding: 25px;
     margin: 0;
     text-align: center;
@@ -220,7 +221,7 @@ nav ul li a:hover {
 }
 
 #latest-news-container {
-   background-color: #e92159;
+   background-color: #6D4C41;
     position: relative;
     flex-basis: 138%;
     /* padding: 25px; */
@@ -573,7 +574,7 @@ nav ul li a:hover {
 }
 
 .comments-item > div p span.author {
-    color: #E92159;
+    color: #666633;
 }
 
 .comments-item > div h5 {
@@ -676,7 +677,7 @@ footer ul li a {
         margin-left: 0;
         width: 100%;
     }
-    
+
     #recent-reviews {
         background: none;
     }
